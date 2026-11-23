@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MaterialFlow.Api/MaterialFlow.Api.csproj" Id="050d5950-5c61-476a-ac96-1a77e3d52024" />
+    <Project Path="src/MaterialFlow.Application/MaterialFlow.Application.csproj" Id="0072c151-bd43-4aa4-b171-c3345cde5d05" />
+    <Project Path="src/MaterialFlow.Domain/MaterialFlow.Domain.csproj" Id="68fe9e17-5bdc-4c45-a12b-54022f1bf382" />
+    <Project Path="src/MaterialFlow.Functions/MaterialFlow.Functions.csproj" />
+    <Project Path="src/MaterialFlow.Infrastructure/MaterialFlow.Infrastructure.csproj" Id="c857211d-fd08-45dd-99bd-7cc68da4c5cb" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MaterialFlow.IntegrationTests/MaterialFlow.IntegrationTests.csproj" />
+    <Project Path="tests/MaterialFlow.UnitTests/MaterialFlow.UnitTests.csproj" />
+  </Folder>
+</Solution>

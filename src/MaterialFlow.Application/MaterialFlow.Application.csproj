@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+ 
+  <ItemGroup>
+    <ProjectReference Include="..\MaterialFlow.Domain\MaterialFlow.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
